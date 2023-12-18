@@ -1,0 +1,22 @@
+.main_text {
+    margin-left: 45px;
+    margin-right: 45px;
+	color: #708090;
+	font-size: 16pt;
+	align:  center;
+}
+
+.subtitle {
+    color: #708090;
+	text-align: center;
+}
+
+.title {
+    color: #708090;
+	text-align: center;
+	margin-bottom: 40px;
+}
+
+.center {
+    margin: auto;
+}
