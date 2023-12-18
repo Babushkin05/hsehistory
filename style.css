@@ -20,3 +20,9 @@
 .center {
     margin: auto;
 }
+
+.menu {   background-color: #eceff1;
+   color:  #708090;
+   font-size: 25pt;   border-radius: 10px;
+   margin: auto;font-weight: bold;
+}
